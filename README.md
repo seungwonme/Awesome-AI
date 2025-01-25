@@ -21,14 +21,20 @@
 
 ### Model
 
+- [meta-llama/llama3](https://github.com/meta-llama/llama3)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+- [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5)
 
 ### Prompt
 
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+
+### Evaluation
+
+- [comet-ml/opik](https://github.com/comet-ml/opik)
 
 ### Tutorial
 
@@ -52,6 +58,8 @@
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
 - [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit)
 - [kyopark2014/nova-agent](https://github.com/kyopark2014/nova-agent)
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+- [horizondatawave/cookbook](https://github.com/horizondatawave/cookbook)
 
 ### Web
 
@@ -73,6 +81,7 @@
 - [openai/swarm](https://github.com/openai/swarm)
 - [microsoft/autogen](https://github.com/microsoft/autogen)
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
 - [AK391/ai-gradio](https://github.com/AK391/ai-gradio)
 
 ## RAG
@@ -81,7 +90,10 @@
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)
 - [Softlandia-Ltd/vision-is-all-you-need](https://github.com/Softlandia-Ltd/vision-is-all-you-need)
 - [alonlavian/RAGent](https://github.com/alonlavian/RAGent)
+- [madarco/ragrabbit](https://github.com/madarco/ragrabbit)
+- [lesteroliver911/docling-pdf-processor](https://github.com/lesteroliver911/docling-pdf-processor)
 - [multinear-demo/demo-bank-support-lc-py](https://github.com/multinear-demo/demo-bank-support-lc-py)
+- [lesteroliver911/openai-rfp-response-analyzer](https://github.com/lesteroliver911/openai-rfp-response-analyzer)
 
 ### Tutorial
 
@@ -98,9 +110,11 @@
 - [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
 - [straussmaximilian/ocrmac](https://github.com/straussmaximilian/ocrmac)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown)
+- [lesteroliver911/license-vision-analyzer](https://github.com/lesteroliver911/license-vision-analyzer)
 
 ## Crawling
 
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
 
 ## Repo
@@ -117,4 +131,5 @@
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
 - [teddylee777/machine-learning](https://github.com/teddylee777/machine-learning)
