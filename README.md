@@ -76,11 +76,12 @@
 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
+- [run-llama/llama_index](https://github.com/run-llama/llama_index)
 - [huggingface/smolagents](https://github.com/huggingface/smolagents)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
 - [openai/swarm](https://github.com/openai/swarm)
-- [microsoft/autogen](https://github.com/microsoft/autogen)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
+- [microsoft/autogen](https://github.com/microsoft/autogen)
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
 - [AK391/ai-gradio](https://github.com/AK391/ai-gradio)
 
